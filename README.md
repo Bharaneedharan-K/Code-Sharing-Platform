@@ -5,7 +5,7 @@ A full-stack web application that allows developers to create, share, like, and 
 ## 🌐 Live Demo
 
 - **Frontend (Vercel)**: [https://binfn.vercel.app](https://binfn.vercel.app)
-- **Backend (Render)**: [https://https://binfn.onrender.com](https://https://binfn.onrender.com)
+- **Backend (Render)**: [https://binfn.onrender.com](https://https://binfn.onrender.com)
 
 ---
 
