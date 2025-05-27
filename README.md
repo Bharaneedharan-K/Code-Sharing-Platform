@@ -33,7 +33,7 @@ A full-stack web application that allows developers to create, share, like, and 
 - Express.js
 - MongoDB & Mongoose
 - JWT for authentication
-- Helmet, CORS, Morgan for security and logging
+- Helmet, CORS for security and logging
 
 ### 🎨 Frontend
 - React (with Hooks)
