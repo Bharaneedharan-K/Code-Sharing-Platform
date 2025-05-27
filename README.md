@@ -13,7 +13,6 @@ A full-stack web application that allows developers to create, share, like, and 
 
 ### 🔐 Authentication
 - User registration and login using JWT
-- Profile photo upload during signup
 
 ### 🧠 Snippet Management
 - Create, read, update, and delete code snippets
